@@ -9,4 +9,4 @@
 
 # Atividade P.set 1
 ---
-**-Contém o arquivo do pset em linguagem C**
+** -Contém o arquivo do pset em linguagem C
